@@ -1,0 +1,20 @@
+{% load static %}
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Title</title>
+</head>
+<body>
+  <!-- 显示静态资源文件 -->
+  <p>
+    <img src="/static/images/shuaige.jpg">
+  </p>
+  <p>
+    <img src="http://localhost:8000/static/images/shuaige.jpg">
+  </p>
+  <p>
+    <img src="{% static 'images/shuaige.jpg' %}">
+  </p>
+</body>
+</html>

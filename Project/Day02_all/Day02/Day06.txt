@@ -1,0 +1,88 @@
+1.Models
+	1.商品类型 - GoodsType
+		1.title - 类型名称
+		2.picture - 类型图片
+		3.desc - 类型描述
+	2.商品 - Goods
+		1.title - 商品名称
+		2.price - 商品价格
+		3.spec - 商品规格
+		4.picture - 商品图片
+		5.goodsType - 商品类型
+		6.isActive - 是否上架，默认为True
+
+
+2.加载首页数据
+	1.后台查询数据 - 返回 JSON 字符串
+		[
+			{
+				"type":"{'title':'礼品卡券','picture':'static/xx'}",
+				"goods":"[
+					{'title':'xxx','price':'xxx'},
+					{'title':'xxx'}
+				]"
+			},
+			{
+				"type":"{}",
+				"goods":"[]"
+			},
+			{
+				"type":"{}",
+				"goods":"[]"
+			}
+		]
+
+3.购物车
+	1.增加实体类 - CartInfo
+		用户
+		商品
+		数量
+	2.完善前端 add_cart() 函数
+		增加一个参数，表示要购买的商品的id
+	3.完善后端 添加至购物车的操作
+		判断 当前登录用户 是否购买了 该商品
+			如果 当前登录用户购买了该商品的话，则更新数量(+1)
+			否则 保存数据到数据库(用户id,商品id,数量为1)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+{
+	"picture": "static/upload/goodstype/t4.png", 
+	"title": "\u793c\u54c1\u5361\u5238", 
+	"desc": "\u793c\u54c1\u5361\u5238\u7684\u76f8\u5173\u5185\u5bb9"
+}
+
+
+[
+	{
+		"model": "index.goods", 
+		"pk": 13, 
+		"fields": {
+			"title": "\u793c\u54c1\u5361\u5238008", 
+			"price": "100.00", 
+			"spec": "6g", 
+			"picture": "static/upload/goods/1-270x270-2114-226C8S26.jpg", 
+			"goodsType": 1, 
+			"isActive": true
+		}
+	}, 
+	{"model": "index.goods", "pk": 12, "fields": {"title": "\u793c\u54c1\u5361\u5238007", "price": "666.00", "spec": "10\u4e2a", "picture": "static/upload/goods/1-270x270-3877-BXDY6KCU_oguTvNJ.jpg", "goodsType": 1, "isActive": true}},
+	{"model": "index.goods", "pk": 11, "fields": {"title": "\u793c\u54c1\u5361\u5238006", "price": "888.00", "spec": "500g", "picture": "static/upload/goods/1-270x270-3356-T4P73D4B_6DSFNE0.jpg", "goodsType": 1, "isActive": true}}, 
+	{"model": "index.goods", "pk": 10, "fields": {"title": "\u793c\u54c1\u5361\u5238005", "price": "799.00", "spec": "10\u4e2a", "picture": "static/upload/goods/1-270x270-695-F2BSB4DC_YISeYcW.jpg", "goodsType": 1, "isActive": true}},
+	{"model": "index.goods", "pk": 9, "fields": {"title": "\u793c\u54c1\u5361\u5238004", "price": "990.00", "spec": "1\u5f20", "picture": "static/upload/goods/1-270x270-2109-SDK5WUW8_T9fwDlX.jpg", "goodsType": 1, "isActive": true}}, 
+	{"model": "index.goods", "pk": 8, "fields": {"title": "\u793c\u54c1\u5361\u5238003", "price": "169.00", "spec": "1\u5f20", "picture": "static/upload/goods/1-270x270-3877-BXDY6KCU.jpg", "goodsType": 1, "isActive": true}},
+	{"model": "index.goods", "pk": 7, "fields": {"title": "\u793c\u54c1\u5361\u5238002", "price": "200.00", "spec": "1\u5f20", "picture": "static/upload/goods/1-270x270-3356-T4P73D4B.jpg", "goodsType": 1, "isActive": true}},
+	{"model": "index.goods", "pk": 6, "fields": {"title": "\u793c\u54c1\u5361\u5238", "price": "100.00", "spec": "1\u5f20", "picture": "static/upload/goods/1-270x270-27316-F2BUCPRH_feOzRyN.jpg", "goodsType": 1, "isActive": true}}
+]
+
