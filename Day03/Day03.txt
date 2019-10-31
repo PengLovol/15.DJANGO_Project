@@ -29,7 +29,7 @@
 				2.每个应用下创建一个 static 目录
 =====================================
 1.模板 
-	1.模板的继承
+	1.模板的继承:MyDjangoDemo03
 		1.语法
 			1.在父模板中
 				必须要标识处哪些内容在子模板中允许被修改
@@ -86,6 +86,7 @@
 	3.创建 和 配置数据库
 		1.创建数据库-webdb
 			create database webdb default charset utf8 collate utf8_general_ci;
+			create database 库名 [character set utf8];
 		2.Django的数据库配置
 			在 settings.py 中配置数据库的信息
 			DATABASES = {
@@ -123,6 +124,13 @@
 							CharField()
 						FIELD_OPTIONS : 字段选项(字段说明)
 							max_length=30
+
+							class Publisher(models.Model):
+                                name=models.CharField(max_length=30)
+                                address=models.CharField(max_length=200)
+                                city=models.CharField(max_length=50)
+                                country=models.CharField(max_length=50)
+                                websize=models.URLField()
 				
 				字段类型 ：FIELDTYPE
 					1.BooleanField()

@@ -5,6 +5,7 @@ Django
 
 		版本：
 			最高：2.1.2
+
 			使用：1.11.8
 		
 		官网：http://www.djangoproject.com
@@ -68,7 +69,7 @@ Django
 				Web服务网关接口
 			4.settings.py
 				项目的配置文件
-				1.BASE_DIR : 获取当前项目的绝对路径
+				1.BASE_DIR : 获取当前项目的绝对路径:BASE_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 				2.DEBUG : 是否启用调试模式
 					True ：启用调试模式（开发环境中推荐）
 					False ：不启用调试模式（生产环境中推荐）
@@ -165,7 +166,7 @@ Django
 			5.创建 news  应用 ，并注册
 	3.应用的结构组成
 		1.migrations 目录
-			存放数据的中间文件
+			存放数据的中间文件(orm映射)
 		2.__init__.py
 			应用的初始化文件
 		3.admin.py	
@@ -205,7 +206,7 @@ Django
 		3.访问路径 http://localhost:8000/
 			交给 index 应用中的 index_views 去处理
 
-
+只要访问路径不是 admin/**,music/**,news/** 的话，剩下的请求一律交给 index 应用去处理
 
 
 
