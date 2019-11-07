@@ -1,0 +1,199 @@
+/* 统一设置页面样式 */
+body{
+	/*字体样式*/
+	font : 12px "Microsoft Yahei","黑体",sans-serif;
+	color : #9a9a9a;
+}
+/*清除默认样式*/
+body,h1,h2,h3,h4,h5,h6,p,ul,ol{
+	margin:0;
+	padding:0;
+	list-style:none;
+}
+a{
+	color: #9a9a9a;
+	text-decoration:none;
+}
+a:hover{
+	color:#64A131;
+}
+img{
+	vertical-align:bottom;
+}
+
+/*页面整体宽度设置及居中效果*/
+#container{
+	width: 990px;
+	margin: 0 auto;
+}
+/*1.导航*/
+#nav{
+    height: 30px;
+    background: #eeeeee;
+    line-height: 30px;
+
+}
+  /*1.1右侧导航*/
+#nav .rightNav{
+    float: right;
+}
+
+#nav .rightNav>li{
+    float:left;
+    padding: 0px 5px;
+}
+#nav .rightNav>li>b{
+	border-left: 1px solid #9a9a9a;
+	margin-right: 10px;
+}
+  /*1.2左侧导航*/
+#nav .leftNav>li{
+    float: left;
+    padding-left: 10px;
+}
+
+#nav .leftNav>li>u{
+    display: inline-block;
+    width: 0px;
+    height:0px;
+    border:6px solid transparent;
+    border-top: 6px solid black;
+    position: relative;
+    top: 4px;
+}
+#nav address{
+    position: relative;
+}
+/*设置绝对定位：使得元素不占位（父元素相对定位子元素绝对定位）*/
+#nav .select{
+    display: none;
+    position: absolute;
+    /*调整元素的堆叠次序*/
+    z-index: 100;
+    color:black;
+}
+#nav .address:hover .select{
+    display: block;
+    background: rgba(255,0,0,0.5);
+}
+#nav .select>li:hover{
+    font-weight: bold;
+}
+
+/*2.横幅*/
+#banner{
+	margin: 15px 0;
+	position:relative;
+}
+/*除了第一张图片外，其他图片都隐藏*/
+#banner img:not(:first-child){
+    display: none;
+}
+#banner img{
+	width: 100%;
+	height: 207px;
+}
+/*图片索引*/
+#banner .imgNav{
+    position: absolute;
+    right: 20px;
+    bottom: 10px;
+}
+#banner .imgNav>li{
+    float: left;
+    width: 20px;
+    height: 20px;
+    margin: 0 10px;
+    background: gray;
+    text-align: center;
+    line-height: 20px;
+    border-radius: 50%;
+}
+/*匹配作为第一个子元素的li*/
+#banner .imgNav>li:first-child{
+    background: red;
+
+}
+banner .imgNav>li>a{
+    color: #fff;
+}
+
+/*3. 推介*/
+#adv{
+	height: 112px;
+}
+#adv img{
+    float:left;
+    width: 240px;
+    margin-right:10px;
+}
+#adv .lastImg{
+    margin-right:0;
+}
+
+/*4. 主体信息*/
+/*让"更多"向右浮动*/
+#main{
+    margin-top:25px;
+    /*解决浮动元素使得main元素高度为0*/
+    overflow: hidden;
+}
+#main .goodsClass{
+    border-top: 1px solid #ccc;
+    margin-bottom: 10px;
+}
+#main .goodsClass>a{
+    float: right;
+    color: #333;
+}
+/*4.1 商品信息部分*/
+/*五张图片共行显示*/
+#main .item>ul>li{
+    float: left;
+    width: 190px;
+    margin-right: 10px;
+}
+/*将最右边的图片的右侧外边距设置为0*/
+#main .item>ul>li.no-margin{
+    margin-right: 0px;
+}
+/*图片缩放效果*/
+#main .item>ul>li>p{
+    width: 190px;
+    height: 190px;
+    overflow: hidden;
+}
+/*设置图片宽度，防止溢出现象*/
+#main .item>ul>li>p>img{
+    width: 190px;
+    /*增加过度属性*/
+    transition: all .3s ;
+}
+/*鼠标移动到图片上，图片放大*/
+#main .item>ul>li>p>img:hover{
+	transform: scale(1.1);
+}
+
+#main .content>a{
+    float: right;
+}
+
+/*将图片下方整体信息增加外边距*/
+#main .content{
+    margin-top: 10px;
+}
+/*文本色和边距的调整*/
+#main .content>p{
+    color: #555555;
+    margin-bottom: 3px;
+    margin-left: 3px;
+}
+#main .content>span{
+    margin-left: 5px;
+}
+
+#footer{
+    height: 100px;
+    background: red;
+}
+

@@ -66,7 +66,7 @@
 		1.声明类 EntryManager 继承自 models.Manager
 			允许在 EntryManager 中添加自定义函数
 
-			class EntryManager(models.Manager):
+			class EntryManager(models.Manager):  #models.Manager为object类的类型
 				def 函数名(self,自定义参数列表):
 					... ...
 					return ... ...
@@ -92,7 +92,7 @@
 		9.request.META : 封装了请求的元数据
 			request.META.HTTP_REFERER : 封装了请求的源地址
 
-	3.获取请求提交的数据
+	3.获取请求提交的数据:MyFruitDay
 		1.get请求方式
 			request.GET['名称']
 			request.GET.get('名称')

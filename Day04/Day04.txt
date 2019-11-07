@@ -129,6 +129,7 @@
 				Author.objects.exclude(id=1,age__lt=30)
 				select * from index_author where  not (id=1 and age < 30)
 		7.聚合查询(不带分组)
+		    from django.db.models import Avg, Sum,Count,Max,Min
 			语法：aggregate()
 			语法：
 				Entry.objects.all().aggregate(名=聚合函数('列'))
@@ -148,6 +149,7 @@
 			语法: order_by()
 			用法：Entry.objects.order_by('列1','-列2')
 				默认是升序排序，列名前加 - 则表示降序排序
+		练习：点击修改按钮去往一个视图，显示其所有信息
 	3.修改
 		1.修改单个实体
 			1.查
@@ -158,6 +160,7 @@
 				通过对象的save()保存回数据库
 		2.批量修改数据
 			调用QuerySet的update(属性=值,属性=值)实现批量修改
+			Author.objects.filter(isActive=False).update(isActive=True)
 	4.删除
 		调用实体对象/查询结果集的 delete() 完成删除
 		1.删除单个对象

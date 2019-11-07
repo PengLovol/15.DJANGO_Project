@@ -26,8 +26,8 @@ def reverse_views(request):
 #http://localhost:8000/05-add
 def add_views(request):
   # 方案１：Entry.objects.create()
-  # obj = Author.objects.create(name='王老师',age=32,email='wang.wc@163.com')
-  # print(obj.id,obj.name,obj.age,obj.email)
+  obj = Author.objects.create(name='王老师',age=32,email='wang.wc@163.com')
+  print(obj.id,obj.name,obj.age,obj.email)
 
   # 方案２: obj.save()
   # obj = Author(name='隔壁老王',age=32,email='laowang.gebi@163.com')
@@ -61,17 +61,17 @@ def add_views(request):
   # obj1.save()
 
   #向　Book 表中插入数据
-  Book.objects.create(title='老王的一天',publicate_date='2015-10-12')
-
-  book = Book(title='老王的一生',publicate_date='2017-09-12')
-  book.save()
-
-  dic = {
-    'title':'王老师的幸福生活',
-    'publicate_date':'2018-01-01'
-  }
-  book1 = Book(**dic)
-  book1.save()
+  # Book.objects.create(title='老王的一天',publicate_date='2015-10-12')
+  #
+  # book = Book(title='老王的一生',publicate_date='2017-09-12')
+  # book.save()
+  #
+  # dic = {
+  #   'title':'王老师的幸福生活',
+  #   'publicate_date':'2018-01-01'
+  # }
+  # book1 = Book(**dic)
+  # book1.save()
 
 
   return HttpResponse("Add OK")

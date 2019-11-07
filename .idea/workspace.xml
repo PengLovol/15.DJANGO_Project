@@ -1,102 +1,101 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BookmarkManager">
+    <bookmark url="file://$PROJECT_DIR$/Day06/MyDjangoDemo03/index/models.py" line="6" />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="6f433c81-02c6-4d78-83a5-820e14d00d7a" name="默认" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Day02/MydjangoDemo02/static/js/meinv.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Day03/MyFruitDay/static/images/1-270x270-2109-SDK5WUW8.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Day03/MyFruitDay/static/images/1-270x270-2114-226C8S26.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Day03/MyFruitDay/static/images/1-270x270-2163-8PBW628F.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Day03/MyFruitDay/static/images/1-270x270-27316-F2BUCPRH.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Day03/MyFruitDay/static/images/1-270x270-3356-T4P73D4B.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Day03/MyFruitDay/static/images/1-270x270-3877-BXDY6KCU.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Day03/MyFruitDay/static/images/1-270x270-430-9RBRWTU9.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Day03/MyFruitDay/static/images/1-270x270-435-8829CP99.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Day03/MyFruitDay/static/images/1-270x270-695-F2BSB4DC.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Day03/MyFruitDay/static/images/1-270x270-701-CB41CHUW.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Day03/MyFruitDay/static/images/1.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Day03/MyFruitDay/static/images/2.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Day03/MyFruitDay/static/images/2_1.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Day03/MyFruitDay/static/images/2_2.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Day03/MyFruitDay/static/images/2_3.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Day03/MyFruitDay/static/images/2_4.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Day03/MyFruitDay/static/images/banner2.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Day03/MyFruitDay/static/images/banner3.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Day03/MyFruitDay/static/images/camera.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Day03/MyFruitDay/static/images/cart.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Day03/MyFruitDay/static/images/huiyuan.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Day03/MyFruitDay/static/images/jd-search.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Day03/MyFruitDay/static/images/logo.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Day03/MyFruitDay/static/images/t4.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Day03/MyFruitDay/static/images/作业.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Day03/MyFruitDay/static/images/天天果园首页.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Day01/MyNetease/.idea/workspace.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Day02/MydjangoDemo02/.idea/workspace.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Day02/MydjangoDemo02/static/css/index_peng.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Day02/MydjangoDemo02/static/js/index_peng.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Day02/MydjangoDemo02/templates/01_temp.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Day02/MydjangoDemo02/templates/03_var.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Day02/MydjangoDemo02/templates/04_static.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Day02/MydjangoDemo02/templates/index_peng.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Day03/MyDjangoDemo03/.idea/MyDjangoDemo03.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Day03/MyDjangoDemo03/.idea/inspectionProfiles/profiles_settings.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Day03/MyDjangoDemo03/.idea/misc.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Day03/MyDjangoDemo03/.idea/modules.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Day03/MyDjangoDemo03/.idea/workspace.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Day03/MyDjangoDemo03/index/urls.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Day03/MyDjangoDemo03/templates/01-parent.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Day03/MyDjangoDemo03/templates/02-child.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Day03/MyFruitDay/index/urls.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Day03/MyFruitDay/static/css/index_peng.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Day03/MyFruitDay/static/js/index_peng.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Day03/MyFruitDay/templates/register.html" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Day01/DjangoDemo01/.idea/workspace.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Day01/DjangoDemo01/DjangoDemo01/settings.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Day01/DjangoDemo01/DjangoDemo01/urls.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Day01/DjangoDemo01/DjangoDemo01/views.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Day01/DjangoDemo01/DjangoDemo01/wsgi.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Day01/DjangoDemo01/db.sqlite3" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Day01/DjangoDemo01/manage.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Day01/DjangoDemo01/news/admin.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Day01/DjangoDemo01/news/apps.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Day01/DjangoDemo01/news/models.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Day01/DjangoDemo01/news/tests.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Day01/DjangoDemo01/news/views.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Day03/DjangoDemo03/.idea/workspace.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Day03/DjangoDemo03/DjangoDemo03/__init__.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Day03/DjangoDemo03/DjangoDemo03/settings.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Day03/DjangoDemo03/DjangoDemo03/urls.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Day03/DjangoDemo03/DjangoDemo03/wsgi.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Day03/DjangoDemo03/db.sqlite3" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Day03/DjangoDemo03/index/admin.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Day03/DjangoDemo03/index/apps.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Day03/DjangoDemo03/index/migrations/0001_initial.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Day03/DjangoDemo03/index/migrations/0002_author_book.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Day03/DjangoDemo03/index/migrations/0003_delete_book.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Day03/DjangoDemo03/index/migrations/0004_book.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Day03/DjangoDemo03/index/migrations/0005_author_isactive.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Day03/DjangoDemo03/index/models.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Day03/DjangoDemo03/index/tests.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Day03/DjangoDemo03/index/urls.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Day03/DjangoDemo03/index/views.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Day03/DjangoDemo03/manage.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Day03/DjangoDemo03/templates/01-parent.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Day03/DjangoDemo03/templates/02-child.html" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Day01/Day01.txt" afterPath="$PROJECT_DIR$/Day01/Day01.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Day03/Day03.txt" afterPath="$PROJECT_DIR$/Day03/Day03.txt" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Day01/DjangoDemo01/.idea/DjangoDemo01.iml" afterPath="$PROJECT_DIR$/Day01/MyNetease/.idea/MyNetease.iml" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Day01/DjangoDemo01/.idea/inspectionProfiles/profiles_settings.xml" afterPath="$PROJECT_DIR$/Day01/MyNetease/.idea/inspectionProfiles/profiles_settings.xml" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Day01/DjangoDemo01/.idea/misc.xml" afterPath="$PROJECT_DIR$/Day02/MydjangoDemo02/.idea/misc.xml" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Day01/DjangoDemo01/.idea/modules.xml" afterPath="$PROJECT_DIR$/Day02/MydjangoDemo02/.idea/modules.xml" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Day01/DjangoDemo01/DjangoDemo01/__init__.py" afterPath="$PROJECT_DIR$/Day01/MyDjangoDemo01/MyDjangoDemo01/views.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Day01/DjangoDemo01/news/__init__.py" afterPath="$PROJECT_DIR$/Day01/MyNetease/index/urls.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Day01/DjangoDemo01/news/migrations/__init__.py" afterPath="$PROJECT_DIR$/Day01/MyNetease/music/urls.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Day03/DjangoDemo03/.idea/DjangoDemo03.iml" afterPath="$PROJECT_DIR$/Day02/MydjangoDemo02/.idea/MydjangoDemo02.iml" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Day03/DjangoDemo03/.idea/inspectionProfiles/profiles_settings.xml" afterPath="$PROJECT_DIR$/Day02/MydjangoDemo02/.idea/inspectionProfiles/profiles_settings.xml" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Day03/DjangoDemo03/.idea/misc.xml" afterPath="$PROJECT_DIR$/Day01/MyNetease/.idea/misc.xml" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Day03/DjangoDemo03/.idea/modules.xml" afterPath="$PROJECT_DIR$/Day01/MyNetease/.idea/modules.xml" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Day03/DjangoDemo03/index/__init__.py" afterPath="$PROJECT_DIR$/Day01/MyNetease/news/urls.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Day03/DjangoDemo03/index/migrations/__init__.py" afterPath="$PROJECT_DIR$/Day02/MydjangoDemo02/index/urls.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Day05/MyDjangoDemo03/db.sqlite3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Day06/MyDjangoDemo03/db.sqlite3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Day06/MyDjangoDemo03/static/uploda/a.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Day06/MyDjangoDemo03/static/uploda/timg.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Day06/MyDjangoDemo03/static/uploda/鞠婧祎3.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Day04/MyDjangoDemo03/templates/07-queryall.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Day04/MyDjangoDemo03/templates/08-update.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Day05/MyDjangoDemo03/.idea/MyDjangoDemo03.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Day05/MyDjangoDemo03/.idea/inspectionProfiles/profiles_settings.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Day05/MyDjangoDemo03/.idea/misc.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Day05/MyDjangoDemo03/.idea/modules.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Day05/MyDjangoDemo03/.idea/workspace.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Day05/MyDjangoDemo03/db.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Day05/MyDjangoDemo03/index/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Day05/MyDjangoDemo03/index/admin.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Day05/MyDjangoDemo03/index/apps.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Day05/MyDjangoDemo03/index/migrations/0002_auto_20191031_1424.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Day05/MyDjangoDemo03/index/migrations/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Day05/MyDjangoDemo03/index/models.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Day05/MyDjangoDemo03/index/tests.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Day05/MyDjangoDemo03/index/urls.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Day05/MyDjangoDemo03/index/views.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Day05/MyDjangoDemo03/manage.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Day05/MyDjangoDemo03/templates/01-parent.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Day05/MyDjangoDemo03/templates/02-child.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Day05/MyDjangoDemo03/templates/07-queryall.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Day05/MyDjangoDemo03/templates/08-update.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Day05/MyDjangoDemo03/templates/13-authors.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Day05/MyDjangoDemo03/templates/14-oto.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Day05/MyDjangoDemo03/templates/15-otm.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Day05/MyDjangoDemo03/templates/16-mtm.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Day06/MyDjangoDemo03/.idea/MyDjangoDemo03.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Day06/MyDjangoDemo03/.idea/inspectionProfiles/profiles_settings.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Day06/MyDjangoDemo03/.idea/misc.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Day06/MyDjangoDemo03/.idea/modules.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Day06/MyDjangoDemo03/.idea/workspace.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Day06/MyDjangoDemo03/MyDjangoDemo03/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Day06/MyDjangoDemo03/MyDjangoDemo03/settings.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Day06/MyDjangoDemo03/MyDjangoDemo03/urls.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Day06/MyDjangoDemo03/MyDjangoDemo03/wsgi.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Day06/MyDjangoDemo03/db.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Day06/MyDjangoDemo03/index/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Day06/MyDjangoDemo03/index/admin.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Day06/MyDjangoDemo03/index/apps.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Day06/MyDjangoDemo03/index/migrations/0002_auto_20191031_1424.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Day06/MyDjangoDemo03/index/migrations/0003_auto_20191104_1452.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Day06/MyDjangoDemo03/index/migrations/0004_auto_20191104_1504.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Day06/MyDjangoDemo03/index/migrations/0005_auto_20191104_1515.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Day06/MyDjangoDemo03/index/migrations/0006_auto_20191104_1521.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Day06/MyDjangoDemo03/index/migrations/0007_auto_20191104_1638.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Day06/MyDjangoDemo03/index/migrations/0008_wife.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Day06/MyDjangoDemo03/index/migrations/0009_auto_20191105_0955.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Day06/MyDjangoDemo03/index/migrations/0010_book_publisher.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Day06/MyDjangoDemo03/index/migrations/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Day06/MyDjangoDemo03/index/models.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Day06/MyDjangoDemo03/index/tests.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Day06/MyDjangoDemo03/index/urls.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Day06/MyDjangoDemo03/index/views.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Day06/MyDjangoDemo03/manage.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Day06/MyDjangoDemo03/templates/01-parent.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Day06/MyDjangoDemo03/templates/02-child.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Day06/MyDjangoDemo03/templates/07-queryall.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Day06/MyDjangoDemo03/templates/08-update.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Day06/MyDjangoDemo03/templates/13-authors.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Day06/MyDjangoDemo03/templates/14-oto.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Day06/MyDjangoDemo03/templates/15-otm.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Day06/MyDjangoDemo03/templates/16-mtm.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Day06/MyDjangoDemo4/index/forms.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Day06/MyDjangoDemo4/index/urls.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Day06/MyDjangoDemo4/templates/01-request.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Day06/MyDjangoDemo4/templates/03-post.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Day06/MyDjangoDemo4/templates/04-form.html" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Day04/DjangoDemo03/index/migrations/0001_initial.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Day04/MyDjangoDemo03/index/migrations/0001_initial.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Day04/MyDjangoDemo03/index/migrations/0003_author_isactive.py" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Day04/Day04.txt" afterPath="$PROJECT_DIR$/Day04/Day04.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Day04/DjangoDemo03/DjangoDemo03/settings.py" afterPath="$PROJECT_DIR$/Day04/DjangoDemo03/DjangoDemo03/settings.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Day04/DjangoDemo03/index/views.py" afterPath="$PROJECT_DIR$/Day04/DjangoDemo03/index/views.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Day04/MyDjangoDemo03/index/models.py" afterPath="$PROJECT_DIR$/Day04/MyDjangoDemo03/index/models.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Day04/MyDjangoDemo03/index/urls.py" afterPath="$PROJECT_DIR$/Day04/MyDjangoDemo03/index/urls.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Day04/MyDjangoDemo03/index/views.py" afterPath="$PROJECT_DIR$/Day04/MyDjangoDemo03/index/views.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Day05/Day05.txt" afterPath="$PROJECT_DIR$/Day05/Day05.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Day06/Day06.txt" afterPath="$PROJECT_DIR$/Day06/Day06.txt" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Day04/DjangoDemo03/index/migrations/0002_author_book.py" afterPath="$PROJECT_DIR$/Day06/MyDjangoDemo03/index/migrations/0001_initial.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Day04/DjangoDemo03/index/migrations/0003_author_isactive.py" afterPath="$PROJECT_DIR$/Day06/MyDjangoDemo03/index/migrations/0011_book_authors.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Day04/MyDjangoDemo03/MyDjangoDemo03/__init__.py" afterPath="$PROJECT_DIR$/Day05/MyDjangoDemo03/MyDjangoDemo03/__init__.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Day04/MyDjangoDemo03/MyDjangoDemo03/settings.py" afterPath="$PROJECT_DIR$/Day05/MyDjangoDemo03/MyDjangoDemo03/settings.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Day04/MyDjangoDemo03/MyDjangoDemo03/urls.py" afterPath="$PROJECT_DIR$/Day05/MyDjangoDemo03/MyDjangoDemo03/urls.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Day04/MyDjangoDemo03/MyDjangoDemo03/wsgi.py" afterPath="$PROJECT_DIR$/Day05/MyDjangoDemo03/MyDjangoDemo03/wsgi.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Day04/MyDjangoDemo03/index/migrations/0002_author_book.py" afterPath="$PROJECT_DIR$/Day05/MyDjangoDemo03/index/migrations/0001_initial.py" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -117,55 +116,31 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
-      <file leaf-file-name="Day03.txt" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Day03/Day03.txt">
+      <file leaf-file-name="Day06.txt" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Day06/Day06.txt">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="401">
-              <caret line="112" column="29" lean-forward="false" selection-start-line="112" selection-start-column="27" selection-end-line="112" selection-end-column="41" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Day04.txt" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Day04/Day04.txt">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="322">
-              <caret line="47" column="34" lean-forward="true" selection-start-line="47" selection-start-column="34" selection-end-line="47" selection-end-column="34" />
+            <state relative-caret-position="372">
+              <caret line="170" column="51" lean-forward="true" selection-start-line="170" selection-start-column="51" selection-end-line="170" selection-end-column="51" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
       <file leaf-file-name="urls.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Day04/MyDjangoDemo03/index/urls.py">
+        <entry file="file://$PROJECT_DIR$/Day06/MyDjangoDemo4/index/urls.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="391">
-              <caret line="17" column="1" lean-forward="false" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="1" />
-              <folding>
-                <element signature="e#0#32#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="138">
+              <caret line="7" column="1" lean-forward="true" selection-start-line="7" selection-start-column="1" selection-end-line="7" selection-end-column="1" />
+              <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="urls.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Day04/DjangoDemo03/index/urls.py">
+      <file leaf-file-name="views.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Day06/MyDjangoDemo4/index/views.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="368">
-              <caret line="16" column="41" lean-forward="true" selection-start-line="16" selection-start-column="41" selection-end-line="16" selection-end-column="41" />
-              <folding>
-                <element signature="e#0#32#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="views.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Day04/MyDjangoDemo03/index/views.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="575">
-              <caret line="31" column="11" lean-forward="false" selection-start-line="31" selection-start-column="11" selection-end-line="31" selection-end-column="11" />
+            <state relative-caret-position="702">
+              <caret line="56" column="0" lean-forward="false" selection-start-line="56" selection-start-column="0" selection-end-line="56" selection-end-column="0" />
               <folding>
                 <element signature="e#0#36#0" expanded="true" />
               </folding>
@@ -174,13 +149,21 @@
         </entry>
       </file>
       <file leaf-file-name="views.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Day04/DjangoDemo03/index/views.py">
+        <entry file="file://$PROJECT_DIR$/Day06/DjangoDemo04/index/views.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="345">
-              <caret line="33" column="14" lean-forward="true" selection-start-line="31" selection-start-column="1" selection-end-line="33" selection-end-column="14" />
-              <folding>
-                <element signature="e#0#37#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="449">
+              <caret line="52" column="28" lean-forward="true" selection-start-line="52" selection-start-column="28" selection-end-line="52" selection-end-column="28" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="forms.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Day06/MyDjangoDemo4/index/forms.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="598">
+              <caret line="26" column="46" lean-forward="true" selection-start-line="26" selection-start-column="46" selection-end-line="26" selection-end-column="46" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -209,32 +192,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/Day01/MyDjangoDemo01/MyDjangoDemo01/urls.py" />
-        <option value="$PROJECT_DIR$/Day01/MyDjangoDemo01/MyDjangoDemo01/views.py" />
-        <option value="$PROJECT_DIR$/Day01/MyDjangoDemo01/MyDjangoDemo01/settings.py" />
-        <option value="$PROJECT_DIR$/Day01/MyNetease/MyNetease/settings.py" />
-        <option value="$PROJECT_DIR$/Day01/MyNetease/manage.py" />
-        <option value="$PROJECT_DIR$/Day01/MyNetease/music/urls.py" />
-        <option value="$PROJECT_DIR$/Day01/MyNetease/music/views.py" />
-        <option value="$PROJECT_DIR$/Day01/MyNetease/news/views.py" />
-        <option value="$PROJECT_DIR$/Day01/MyNetease/news/urls.py" />
-        <option value="$PROJECT_DIR$/Day01/Day01.txt" />
-        <option value="$PROJECT_DIR$/Day01/MyNetease/MyNetease/urls.py" />
-        <option value="$PROJECT_DIR$/Day01/MyNetease/index/urls.py" />
-        <option value="$PROJECT_DIR$/Day01/MyNetease/index/views.py" />
-        <option value="$PROJECT_DIR$/Day02/netease/index/urls.py" />
-        <option value="$PROJECT_DIR$/Day02/MydjangoDemo02/manage.py" />
-        <option value="$PROJECT_DIR$/Day02/MydjangoDemo02/MydjangoDemo02/urls.py" />
-        <option value="$PROJECT_DIR$/Day02/MydjangoDemo02/templates/01_temp.html" />
-        <option value="$PROJECT_DIR$/Day02/MydjangoDemo02/templates/03_var.html" />
-        <option value="$PROJECT_DIR$/Day02/MydjangoDemo02/templates/04_static.html" />
-        <option value="$PROJECT_DIR$/Day02/MydjangoDemo02/MydjangoDemo02/settings.py" />
-        <option value="$PROJECT_DIR$/Day02/MydjangoDemo02/templates/index_peng.html" />
-        <option value="$PROJECT_DIR$/Day02/MydjangoDemo02/index/urls.py" />
-        <option value="$PROJECT_DIR$/Day02/DjangoDemo02/index/views.py" />
-        <option value="$PROJECT_DIR$/Day02/MydjangoDemo02/index/views.py" />
-        <option value="$PROJECT_DIR$/Day02/Day02.txt" />
-        <option value="$PROJECT_DIR$/Day03/MyDjangoDemo03/MyDjangoDemo03/urls.py" />
         <option value="$PROJECT_DIR$/Day03/MyDjangoDemo03/templates/02-child.html" />
         <option value="$PROJECT_DIR$/Day03/MyFruitDay/MyFruitDay/urls.py" />
         <option value="$PROJECT_DIR$/Day03/MyFruitDay/MyFruitDay/settings.py" />
@@ -248,10 +205,44 @@
         <option value="$PROJECT_DIR$/Day03/MyDjangoDemo03/index/models.py" />
         <option value="$PROJECT_DIR$/Day03/MyDjangoDemo03/index/migrations/0003_author_isactive.py" />
         <option value="$PROJECT_DIR$/Day03/Day03.txt" />
-        <option value="$PROJECT_DIR$/Day04/MyDjangoDemo03/index/urls.py" />
         <option value="$PROJECT_DIR$/Day03/MyDjangoDemo03/index/urls.py" />
         <option value="$PROJECT_DIR$/Day03/MyDjangoDemo03/index/views.py" />
+        <option value="$PROJECT_DIR$/Day04/DjangoDemo03/DjangoDemo03/settings.py" />
+        <option value="$PROJECT_DIR$/Day04/DjangoDemo03/index/views.py" />
+        <option value="$PROJECT_DIR$/Day04/MyDjangoDemo03/index/urls.py" />
+        <option value="$PROJECT_DIR$/Day04/MyDjangoDemo03/hah.py" />
+        <option value="$PROJECT_DIR$/Day04/MyDjangoDemo03/index/models.py" />
+        <option value="$PROJECT_DIR$/Day04/MyDjangoDemo03/templates/08-update.html" />
         <option value="$PROJECT_DIR$/Day04/MyDjangoDemo03/index/views.py" />
+        <option value="$PROJECT_DIR$/Day05/DjangoDemo03/index/admin.py" />
+        <option value="$PROJECT_DIR$/Day05/MyDjangoDemo03/MyDjangoDemo03/settings.py" />
+        <option value="$PROJECT_DIR$/Day05/MyDjangoDemo03/templates/13-authors.py" />
+        <option value="$PROJECT_DIR$/Day05/MyDjangoDemo03/templates/13-authors.html" />
+        <option value="$PROJECT_DIR$/Day05/MyDjangoDemo03/index/admin.py" />
+        <option value="$PROJECT_DIR$/Day05/MyDjangoDemo03/templates/14-oto.html" />
+        <option value="$PROJECT_DIR$/Day05/Day05.txt" />
+        <option value="$PROJECT_DIR$/Day05/MyDjangoDemo03/index/urls.py" />
+        <option value="$PROJECT_DIR$/Day05/MyDjangoDemo03/index/models.py" />
+        <option value="$PROJECT_DIR$/Day05/MyDjangoDemo03/index/views.py" />
+        <option value="$PROJECT_DIR$/Day04/Day04.txt" />
+        <option value="$PROJECT_DIR$/Day06/MyDjangoDemo03/index/urls.py" />
+        <option value="$PROJECT_DIR$/Day06/MyDjangoDemo03/index/views.py" />
+        <option value="$PROJECT_DIR$/Day06/MyDjangoDemo03/index/models.py" />
+        <option value="$PROJECT_DIR$/Day06/MyDjangoDemo4/MyDjangoDemo4/urls.py" />
+        <option value="$PROJECT_DIR$/Day06/MyDjangoDemo4/templates/01-request.html" />
+        <option value="$PROJECT_DIR$/Day06/MyDjangoDemo4/MyDjangoDemo4/settings.py" />
+        <option value="$PROJECT_DIR$/Day06/MyFruitDay/MyFruitDay/settings.py" />
+        <option value="$PROJECT_DIR$/Day06/MyFruitDay/index/models.py" />
+        <option value="$PROJECT_DIR$/Day06/MyFruitDay/MyFruitDay/__init__.py" />
+        <option value="$PROJECT_DIR$/Day06/MyFruitDay/index/urls.py" />
+        <option value="$PROJECT_DIR$/Day06/MyFruitDay/templates/login.html" />
+        <option value="$PROJECT_DIR$/Day06/MyFruitDay/templates/register.html" />
+        <option value="$PROJECT_DIR$/Day06/MyFruitDay/index/views.py" />
+        <option value="$PROJECT_DIR$/Day06/MyDjangoDemo4/index/forms.py" />
+        <option value="$PROJECT_DIR$/Day06/Day06.txt" />
+        <option value="$PROJECT_DIR$/Day06/MyDjangoDemo4/index/urls.py" />
+        <option value="$PROJECT_DIR$/Day06/MyDjangoDemo4/templates/04-form.html" />
+        <option value="$PROJECT_DIR$/Day06/MyDjangoDemo4/index/views.py" />
       </list>
     </option>
   </component>
@@ -305,7 +296,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="Day04" />
+              <option name="myItemId" value="Day06" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -319,33 +310,11 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="Day04" />
+              <option name="myItemId" value="Day06" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="MyDjangoDemo03" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="15.DJANGO_Project" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="15.DJANGO_Project" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Day04" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="MyDjangoDemo03" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="index" />
+              <option name="myItemId" value="MyDjangoDemo4" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -359,11 +328,15 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="Day04" />
+              <option name="myItemId" value="Day06" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="DjangoDemo03" />
+              <option name="myItemId" value="MyDjangoDemo4" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="templates" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -377,11 +350,51 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="Day04" />
+              <option name="myItemId" value="Day06" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="DjangoDemo03" />
+              <option name="myItemId" value="DjangoDemo04" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="15.DJANGO_Project" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="15.DJANGO_Project" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Day06" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="DjangoDemo04" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="templates" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="15.DJANGO_Project" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="15.DJANGO_Project" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Day06" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="DjangoDemo04" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
@@ -396,8 +409,8 @@
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../14-AJAX_Project" />
-    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PythonContentEntriesConfigurable" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../test" />
+    <property name="settings.editor.selected.configurable" value="preferences.sourceCode" />
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
   </component>
   <component name="RecentsManager">
@@ -406,11 +419,11 @@
       <recent name="E:\GitHub\15.DJANGO_Project\Day02\MydjangoDemo02\static\js" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="E:\GitHub\15.DJANGO_Project\Day04" />
-      <recent name="E:\GitHub\15.DJANGO_Project\Day03\MyFruitDay\templates" />
-      <recent name="E:\GitHub\15.DJANGO_Project\Day03\MyFruitDay" />
-      <recent name="E:\GitHub\15.DJANGO_Project\Day02\MydjangoDemo02\static\js" />
-      <recent name="E:\GitHub\15.DJANGO_Project\Day02\MydjangoDemo02\static\css" />
+      <recent name="E:\GitHub\15.DJANGO_Project\Day06\MyDjangoDemo4\templates" />
+      <recent name="E:\GitHub\15.DJANGO_Project\Day06" />
+      <recent name="E:\GitHub\15.DJANGO_Project\Day05\MyDjangoDemo03\templates" />
+      <recent name="E:\GitHub\15.DJANGO_Project\Day05" />
+      <recent name="E:\GitHub\15.DJANGO_Project\Day04\MyDjangoDemo03\templates" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -691,7 +704,7 @@
     <frame x="2391" y="-9" width="2418" height="1318" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.18941979" sideWeight="0.8406305" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.15059727" sideWeight="0.8406305" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="调试" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
@@ -699,7 +712,7 @@
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2854594" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.1926851" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="运行" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.12667261" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.17489271" sideWeight="0.15936953" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Data View" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -722,283 +735,255 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="XDebuggerManager">
-    <breakpoint-manager />
+    <breakpoint-manager>
+      <option name="time" value="1" />
+    </breakpoint-manager>
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Day02/DjangoDemo02/DjangoDemo02/urls.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="506">
-          <caret line="23" column="0" lean-forward="true" selection-start-line="23" selection-start-column="0" selection-end-line="23" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Day02/MydjangoDemo02/MydjangoDemo02/urls.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="506">
-          <caret line="22" column="1" lean-forward="false" selection-start-line="22" selection-start-column="1" selection-end-line="22" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Day02/MydjangoDemo02/templates/01_temp.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="207">
-          <caret line="9" column="7" lean-forward="true" selection-start-line="9" selection-start-column="7" selection-end-line="9" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Day02/MydjangoDemo02/static/images/效果图.png" />
-    <entry file="file://$PROJECT_DIR$/Day02/MydjangoDemo02/templates/03_var.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="230">
-          <caret line="10" column="50" lean-forward="false" selection-start-line="10" selection-start-column="50" selection-end-line="10" selection-end-column="50" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Day02/MydjangoDemo02/MydjangoDemo02/settings.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="526">
-          <caret line="123" column="10" lean-forward="true" selection-start-line="123" selection-start-column="10" selection-end-line="123" selection-end-column="10" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Day02/MydjangoDemo02/templates/04_static.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="437">
-          <caret line="19" column="7" lean-forward="true" selection-start-line="19" selection-start-column="7" selection-end-line="19" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Day02/MydjangoDemo02/static/js/index_peng.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="100">
-          <caret line="23" column="36" lean-forward="false" selection-start-line="23" selection-start-column="36" selection-end-line="23" selection-end-column="36" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Day02/MydjangoDemo02/static/css/index_peng.css">
+    <entry file="file://$PROJECT_DIR$/Day05/MyDjangoDemo03/MyDjangoDemo03/urls.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Day02/MydjangoDemo02/templates/index_peng.html">
+    <entry file="file://$PROJECT_DIR$/Day05/MyDjangoDemo03/templates/13-authors.py" />
+    <entry file="file://$PROJECT_DIR$/Day05/DjangoDemo03/templates/13-authors.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="297">
-          <caret line="221" column="81" lean-forward="false" selection-start-line="221" selection-start-column="81" selection-end-line="221" selection-end-column="81" />
+        <state relative-caret-position="253">
+          <caret line="11" column="29" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="19" selection-end-column="7" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Day02/DjangoDemo02/DjangoDemo02/settings.py">
+    <entry file="file://$PROJECT_DIR$/Day05/MyDjangoDemo03/templates/13-authors.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="918">
-          <caret line="125" column="0" lean-forward="false" selection-start-line="125" selection-start-column="0" selection-end-line="125" selection-end-column="0" />
+        <state relative-caret-position="253">
+          <caret line="11" column="33" lean-forward="true" selection-start-line="11" selection-start-column="33" selection-end-line="11" selection-end-column="33" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Day02/DjangoDemo02/index/views.py">
+    <entry file="file://$PROJECT_DIR$/Day05/MyDjangoDemo03/MyDjangoDemo03/settings.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="895">
-          <caret line="50" column="30" lean-forward="false" selection-start-line="50" selection-start-column="30" selection-end-line="50" selection-end-column="30" />
+        <state relative-caret-position="598">
+          <caret line="128" column="52" lean-forward="false" selection-start-line="128" selection-start-column="52" selection-end-line="128" selection-end-column="52" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Day02/MydjangoDemo02/index/views.py">
+    <entry file="file://$PROJECT_DIR$/Day05/MyDjangoDemo03/templates/14-oto.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="322">
-          <caret line="14" column="0" lean-forward="true" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
+        <state relative-caret-position="506">
+          <caret line="22" column="7" lean-forward="true" selection-start-line="22" selection-start-column="7" selection-end-line="22" selection-end-column="7" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Day02/MydjangoDemo02/index/urls.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="184">
-          <caret line="8" column="1" lean-forward="false" selection-start-line="8" selection-start-column="1" selection-end-line="8" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Day03/DjangoDemo03/index/urls.py" />
-    <entry file="file://$PROJECT_DIR$/Day03/DjangoDemo03/DjangoDemo03/urls.py" />
-    <entry file="file://$PROJECT_DIR$/Day01/MyNetease/MyNetease/urls.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="782">
-          <caret line="35" column="34" lean-forward="false" selection-start-line="35" selection-start-column="34" selection-end-line="35" selection-end-column="34" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Day03/DjangoDemo03/index/views.py" />
-    <entry file="file://$PROJECT_DIR$/Day03/MyDjangoDemo03/templates/02-child.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="92">
-          <caret line="4" column="14" lean-forward="true" selection-start-line="4" selection-start-column="14" selection-end-line="4" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Day03/FruitDay/templates/index.html">
+    <entry file="file://$PROJECT_DIR$/Day05/MyDjangoDemo03/templates/15-otm.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Day03/FruitDay/static/images/1-270x270-2109-SDK5WUW8.jpg">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Day03/MyFruitDay/templates/index.html" />
-    <entry file="file://$PROJECT_DIR$/Day03/MyFruitDay/MyFruitDay/settings.py">
+    <entry file="file://$PROJECT_DIR$/Day05/DjangoDemo03/index/urls.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="849">
-          <caret line="119" column="60" lean-forward="true" selection-start-line="119" selection-start-column="60" selection-end-line="119" selection-end-column="60" />
+        <state relative-caret-position="460">
+          <caret line="35" column="1" lean-forward="false" selection-start-line="35" selection-start-column="1" selection-end-line="35" selection-end-column="30" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Day03/MyFruitDay/index/urls.py">
+    <entry file="file://$PROJECT_DIR$/Day05/DjangoDemo03/index/views.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="115">
-          <caret line="7" column="1" lean-forward="false" selection-start-line="7" selection-start-column="1" selection-end-line="7" selection-end-column="1" />
+        <state relative-caret-position="391">
+          <caret line="215" column="0" lean-forward="false" selection-start-line="215" selection-start-column="0" selection-end-line="222" selection-end-column="47" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Day05/MyDjangoDemo03/templates/16-mtm.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="460">
+          <caret line="20" column="7" lean-forward="false" selection-start-line="20" selection-start-column="7" selection-end-line="20" selection-end-column="7" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Day06/MyDjangoDemo03/.idea/misc.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Day05/MyDjangoDemo03/index/views.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="449">
+          <caret line="229" column="35" lean-forward="false" selection-start-line="229" selection-start-column="35" selection-end-line="229" selection-end-column="35" />
+          <folding>
+            <element signature="e#0#55#0" expanded="true" />
+            <marker date="1572923575344" expanded="true" signature="4962:5001" ph="select * fro... index_author" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Day05/MyDjangoDemo03/index/urls.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="621">
+          <caret line="28" column="0" lean-forward="false" selection-start-line="28" selection-start-column="0" selection-end-line="28" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Day05/MyDjangoDemo03/index/admin.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-517">
+          <caret line="10" column="28" lean-forward="false" selection-start-line="10" selection-start-column="28" selection-end-line="10" selection-end-column="28" />
           <folding>
             <element signature="e#0#32#0" expanded="false" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Day03/MyFruitDay/index/views.py">
+    <entry file="file://$PROJECT_DIR$/Day05/MyDjangoDemo03/index/models.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="161">
-          <caret line="7" column="42" lean-forward="false" selection-start-line="7" selection-start-column="42" selection-end-line="7" selection-end-column="42" />
+        <state relative-caret-position="12">
+          <caret line="71" column="50" lean-forward="false" selection-start-line="71" selection-start-column="50" selection-end-line="71" selection-end-column="50" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Day03/FruitDay/templates/login.html">
+    <entry file="file://$PROJECT_DIR$/Day06/DjangoDemo03/index/views.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="619">
-          <caret line="41" column="26" lean-forward="false" selection-start-line="41" selection-start-column="26" selection-end-line="41" selection-end-column="26" />
+        <state relative-caret-position="518">
+          <caret line="224" column="0" lean-forward="false" selection-start-line="224" selection-start-column="0" selection-end-line="232" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#40#0" expanded="true" />
+            <marker date="1571972092282" expanded="true" signature="4446:4485" ph="select * fro... index_author" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Day03/MyFruitDay/templates/login.html">
+    <entry file="file://$PROJECT_DIR$/Day06/DjangoDemo03/index/urls.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="276">
-          <caret line="12" column="7" lean-forward="false" selection-start-line="12" selection-start-column="7" selection-end-line="12" selection-end-column="7" />
+        <state relative-caret-position="505">
+          <caret line="38" column="0" lean-forward="false" selection-start-line="38" selection-start-column="0" selection-end-line="40" selection-end-column="1" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Day03/MyFruitDay/static/css/login.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="437">
-          <caret line="19" column="0" lean-forward="false" selection-start-line="19" selection-start-column="0" selection-end-line="23" selection-end-column="1" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Day03/MyFruitDay/templates/register.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="895">
-          <caret line="58" column="12" lean-forward="false" selection-start-line="58" selection-start-column="12" selection-end-line="58" selection-end-column="12" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Day03/MyFruitDay/MyFruitDay/urls.py">
+    <entry file="file://$PROJECT_DIR$/Day06/DjangoDemo03/index/models.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="506">
-          <caret line="22" column="0" lean-forward="false" selection-start-line="22" selection-start-column="0" selection-end-line="22" selection-end-column="0" />
+          <caret line="34" column="0" lean-forward="false" selection-start-line="34" selection-start-column="0" selection-end-line="35" selection-end-column="27" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Day06/MyDjangoDemo03/index/models.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="621">
+          <caret line="51" column="27" lean-forward="false" selection-start-line="51" selection-start-column="27" selection-end-line="51" selection-end-column="27" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Day06/MyDjangoDemo03/index/views.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="623">
+          <caret line="249" column="1" lean-forward="false" selection-start-line="249" selection-start-column="1" selection-end-line="249" selection-end-column="1" />
           <folding>
-            <element signature="e#644#684#0" expanded="false" />
+            <element signature="e#0#55#0" expanded="true" />
+            <marker date="1573100197889" expanded="true" signature="4962:5001" ph="select * fro... index_author" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Day01/Day01.txt">
+    <entry file="file://$PROJECT_DIR$/Day06/MyDjangoDemo03/MyDjangoDemo03/urls.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="782">
-          <caret line="87" column="38" lean-forward="true" selection-start-line="87" selection-start-column="38" selection-end-line="87" selection-end-column="38" />
+        <state relative-caret-position="460">
+          <caret line="20" column="4" lean-forward="true" selection-start-line="20" selection-start-column="4" selection-end-line="20" selection-end-column="37" />
+          <folding>
+            <element signature="e#648#688#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Day06/MyDjangoDemo03/index/urls.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="610">
+          <caret line="37" column="0" lean-forward="true" selection-start-line="37" selection-start-column="0" selection-end-line="37" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Day03/MyDjangoDemo03/MyDjangoDemo03/__init__.py">
+    <entry file="file://$PROJECT_DIR$/Day06/DjangoDemo04/index/urls.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="23">
-          <caret line="1" column="21" lean-forward="true" selection-start-line="1" selection-start-column="21" selection-end-line="1" selection-end-column="21" />
+        <state relative-caret-position="46">
+          <caret line="2" column="0" lean-forward="false" selection-start-line="2" selection-start-column="0" selection-end-line="7" selection-end-column="1" />
+          <folding>
+            <element signature="e#0#32#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Day06/DjangoDemo04/templates/01-request.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="368">
+          <caret line="16" column="7" lean-forward="true" selection-start-line="16" selection-start-column="7" selection-end-line="16" selection-end-column="7" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Day03/MyDjangoDemo03/templates/01-parent.html">
+    <entry file="file://$PROJECT_DIR$/Day06/MyDjangoDemo4/templates/01-request.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="368">
+          <caret line="16" column="7" lean-forward="true" selection-start-line="16" selection-start-column="7" selection-end-line="16" selection-end-column="7" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Day06/MyDjangoDemo4/MyDjangoDemo4/urls.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="483">
+          <caret line="21" column="1" lean-forward="true" selection-start-line="21" selection-start-column="1" selection-end-line="21" selection-end-column="1" />
+          <folding>
+            <element signature="e#647#687#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Day06/MyDjangoDemo4/MyDjangoDemo4/settings.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="380">
+          <caret line="108" column="0" lean-forward="false" selection-start-line="108" selection-start-column="0" selection-end-line="108" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Day06/MyDjangoDemo4/templates/03-post.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="483">
+          <caret line="21" column="7" lean-forward="false" selection-start-line="21" selection-start-column="7" selection-end-line="21" selection-end-column="7" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Day06/MyFruitDay/MyFruitDay/settings.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="667">
-          <caret line="29" column="44" lean-forward="true" selection-start-line="29" selection-start-column="44" selection-end-line="29" selection-end-column="44" />
-          <folding>
-            <element signature="n#style#0;n#span#0;n#h1#1;n#body#0;n#html#0;n#!!top" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Day03/MyDjangoDemo03/index/migrations/0001_initial.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="529">
-          <caret line="25" column="10" lean-forward="true" selection-start-line="25" selection-start-column="10" selection-end-line="25" selection-end-column="10" />
+          <caret line="83" column="27" lean-forward="true" selection-start-line="83" selection-start-column="27" selection-end-line="83" selection-end-column="27" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Day03/MyDjangoDemo03/MyDjangoDemo03/settings.py">
+    <entry file="file://$PROJECT_DIR$/Day06/MyFruitDay/MyFruitDay/__init__.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="253">
-          <caret line="74" column="10" lean-forward="true" selection-start-line="74" selection-start-column="10" selection-end-line="74" selection-end-column="10" />
+        <state relative-caret-position="23">
+          <caret line="1" column="28" lean-forward="true" selection-start-line="1" selection-start-column="28" selection-end-line="1" selection-end-column="28" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Day02/Day02.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1219">
-          <caret line="125" column="39" lean-forward="false" selection-start-line="125" selection-start-column="39" selection-end-line="125" selection-end-column="39" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Day03/MyDjangoDemo03/index/migrations/0002_author_book.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="115">
-          <caret line="11" column="5" lean-forward="true" selection-start-line="11" selection-start-column="5" selection-end-line="11" selection-end-column="5" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Day03/MyDjangoDemo03/index/migrations/0003_author_isactive.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="322">
-          <caret line="16" column="25" lean-forward="false" selection-start-line="16" selection-start-column="25" selection-end-line="16" selection-end-column="28" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Day03/MyDjangoDemo03/index/models.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="552">
-          <caret line="24" column="29" lean-forward="false" selection-start-line="24" selection-start-column="29" selection-end-line="24" selection-end-column="29" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Day03/MyDjangoDemo03/db.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="391">
-          <caret line="17" column="31" lean-forward="true" selection-start-line="17" selection-start-column="31" selection-end-line="17" selection-end-column="31" />
-          <folding>
-            <element signature="e#468#507#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Day04/MyDjangoDemo03/.idea/misc.xml">
+    <entry file="file://$PROJECT_DIR$/Day06/MyFruitDay/MyFruitDay/urls.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -1006,93 +991,173 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Day03/Day03.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="401">
-          <caret line="112" column="29" lean-forward="false" selection-start-line="112" selection-start-column="27" selection-end-line="112" selection-end-column="41" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Day04/MyDjangoDemo03/index/models.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="575">
-          <caret line="25" column="46" lean-forward="true" selection-start-line="25" selection-start-column="46" selection-end-line="25" selection-end-column="46" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Day03/MyDjangoDemo03/MyDjangoDemo03/urls.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="253">
-          <caret line="11" column="25" lean-forward="false" selection-start-line="11" selection-start-column="25" selection-end-line="11" selection-end-column="25" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Day03/MyDjangoDemo03/index/urls.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="368">
-          <caret line="17" column="1" lean-forward="false" selection-start-line="17" selection-start-column="1" selection-end-line="17" selection-end-column="1" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Day03/MyDjangoDemo03/index/views.py">
+    <entry file="file://$PROJECT_DIR$/Day05/Day05.txt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="184">
-          <caret line="11" column="0" lean-forward="true" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
-          <folding>
-            <element signature="e#0#36#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Day04/MyDjangoDemo03/index/urls.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="391">
-          <caret line="17" column="1" lean-forward="false" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="1" />
-          <folding>
-            <element signature="e#0#32#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Day04/DjangoDemo03/index/urls.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="368">
-          <caret line="16" column="41" lean-forward="true" selection-start-line="16" selection-start-column="41" selection-end-line="16" selection-end-column="41" />
-          <folding>
-            <element signature="e#0#32#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Day04/DjangoDemo03/index/views.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="345">
-          <caret line="33" column="14" lean-forward="true" selection-start-line="31" selection-start-column="1" selection-end-line="33" selection-end-column="14" />
-          <folding>
-            <element signature="e#0#37#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Day04/MyDjangoDemo03/index/views.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="575">
-          <caret line="31" column="11" lean-forward="false" selection-start-line="31" selection-start-column="11" selection-end-line="31" selection-end-column="11" />
-          <folding>
-            <element signature="e#0#36#0" expanded="true" />
-          </folding>
+          <caret line="29" column="58" lean-forward="false" selection-start-line="29" selection-start-column="58" selection-end-line="29" selection-end-column="58" />
+          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Day04/Day04.txt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="322">
-          <caret line="47" column="34" lean-forward="true" selection-start-line="47" selection-start-column="34" selection-end-line="47" selection-end-column="34" />
+          <caret line="14" column="41" lean-forward="true" selection-start-line="14" selection-start-column="41" selection-end-line="14" selection-end-column="41" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Day01/Day01.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="667">
+          <caret line="95" column="42" lean-forward="false" selection-start-line="95" selection-start-column="42" selection-end-line="95" selection-end-column="51" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Day06/FruitDay/index/urls.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#32#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/Anaconda3/Lib/site-packages/django/http/response.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="429">
+          <caret line="290" column="6" lean-forward="false" selection-start-line="290" selection-start-column="6" selection-end-line="290" selection-end-column="6" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Day06/MyFruitDay/templates/login.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="621">
+          <caret line="60" column="26" lean-forward="true" selection-start-line="60" selection-start-column="26" selection-end-line="60" selection-end-column="26" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Day06/FruitDay/templates/register.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="299">
+          <caret line="52" column="11" lean-forward="false" selection-start-line="52" selection-start-column="11" selection-end-line="56" selection-end-column="57" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Day06/MyFruitDay/templates/register.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="702">
+          <caret line="64" column="14" lean-forward="true" selection-start-line="64" selection-start-column="14" selection-end-line="64" selection-end-column="14" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Day06/MyFruitDay/index/urls.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="138">
+          <caret line="6" column="49" lean-forward="true" selection-start-line="6" selection-start-column="49" selection-end-line="6" selection-end-column="49" />
+          <folding>
+            <element signature="e#0#32#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Day06/MyFruitDay/index/views.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="506">
+          <caret line="22" column="31" lean-forward="true" selection-start-line="22" selection-start-column="31" selection-end-line="22" selection-end-column="31" />
+          <folding>
+            <element signature="e#0#35#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Day06/MyFruitDay/index/models.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="345">
+          <caret line="15" column="23" lean-forward="true" selection-start-line="15" selection-start-column="23" selection-end-line="15" selection-end-column="23" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Day06/FruitDay/index/views.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="345">
+          <caret line="15" column="20" lean-forward="true" selection-start-line="15" selection-start-column="20" selection-end-line="15" selection-end-column="20" />
+          <folding>
+            <element signature="e#0#36#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Day06/DjangoDemo04/index/forms.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="46">
+          <caret line="2" column="0" lean-forward="false" selection-start-line="2" selection-start-column="0" selection-end-line="7" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Day06/MyDjangoDemo4/index/urls.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="138">
+          <caret line="7" column="1" lean-forward="true" selection-start-line="7" selection-start-column="1" selection-end-line="7" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Day06/MyDjangoDemo4/templates/04-form.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="667">
+          <caret line="29" column="0" lean-forward="true" selection-start-line="29" selection-start-column="0" selection-end-line="29" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Day06/DjangoDemo04/templates/04-form.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="598">
+          <caret line="26" column="8" lean-forward="true" selection-start-line="26" selection-start-column="8" selection-end-line="26" selection-end-column="8" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Day06/Day06.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="372">
+          <caret line="170" column="51" lean-forward="true" selection-start-line="170" selection-start-column="51" selection-end-line="170" selection-end-column="51" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Day06/DjangoDemo04/index/views.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="449">
+          <caret line="52" column="28" lean-forward="true" selection-start-line="52" selection-start-column="28" selection-end-line="52" selection-end-column="28" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Day06/MyDjangoDemo4/index/forms.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="598">
+          <caret line="26" column="46" lean-forward="true" selection-start-line="26" selection-start-column="46" selection-end-line="26" selection-end-column="46" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Day06/MyDjangoDemo4/index/views.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="702">
+          <caret line="56" column="0" lean-forward="false" selection-start-line="56" selection-start-column="0" selection-end-line="56" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#36#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>

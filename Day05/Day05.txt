@@ -119,6 +119,18 @@
 						定义实体类在 admin 中显示的名字(复数)
 					4.ordering
 						指定数据在后台管理中的排序方式，取值是一个列表，将排序的列表示在列表，默认升序，降序使用-
+
+
+						  class Meta:
+                                    #1.修改表名为author
+                                    db_table='author'
+                                    #2.指定后台管理时要显示的名字
+                                    verbose_name='作者'
+                                    verbose_name_plural=verbose_name
+                                    #3.指定排序规则
+                                    ordering = ['-age']
+
+
 			练习：
 				1.修改 Publisher 的后台管理
 					1.更改表名为 publisher
@@ -167,7 +179,7 @@
 						#分组1
 						('分组名称',{
 							'fields':('属性1','属性2'),
-							'classes':('collapse',)
+							'classes':('collapse',)  #可选的参数，增加折叠效果
 						}),
 						#分组2
 						()
@@ -227,7 +239,7 @@
 				book = Book.objects.get(id=1)
 				publisher = book.publisher
 			2.反向查询:
-				Django默认会在Publisher中增加book_set属性，来表示对应的所有书籍的查询对象
+				Django默认会在Publisher中增加book_set属性(类似于Entry.objects)，来表示对应的所有书籍的查询对象
 				pub = Publisher.objects.get(id=1)
 				books = pub.book_set.all()
 	3.多对多映射
